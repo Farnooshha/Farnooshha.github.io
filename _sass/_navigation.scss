@@ -83,8 +83,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      color: mix(#fff, $link-color, 25%);
+      border: 1px solid mix(#fff, $link-color, 50%);;
       border-radius: 0;
 
       &:hover {
@@ -93,11 +93,11 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $link-color;
       }
 
       &.disabled {
-        color: mix(#fff, $gray, 75%);
+        color: mix(#fff, $link-color, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -131,8 +131,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: mix(#fff, $gray, 50%);
-    border: 1px solid $light-gray;
+    color: mix(#fff, $link-color, 50%);
+    border: 1px solid mix(#fff, $link-color, 75%);
     border-radius: $border-radius;
 
     &:hover {
@@ -151,7 +151,7 @@
     }
 
     &.disabled {
-      color: mix(#fff, $gray, 75%);
+      color: mix(#fff, $link-color, 75%);
       pointer-events: none;
       cursor: not-allowed;
     }
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $link-color;
     color: #fff;
     cursor: pointer;
   }
@@ -232,7 +232,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#fff, $link-color, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -267,7 +267,7 @@
 
       &:hover {
         color: $masthead-link-color-hover;
-        background: mix(#fff, $primary-color, 75%);
+        background: mix(#fff, $link-color, 75%);
       }
     }
 
@@ -323,7 +323,7 @@
   a {
     display: block;
     padding: 0.125em 0;
-    color: inherit;
+    color: $link-color;
 
     &:hover {
       text-decoration: underline;
@@ -336,7 +336,7 @@
     padding-right: 0.5em;
     color: #fff;
     font-weight: bold;
-    background: $primary-color;
+    background: $link-color;
     border-radius: $border-radius;
 
     &:hover {
@@ -371,7 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $link-color;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -382,7 +382,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $link-color;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -398,7 +398,7 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-    color: $gray;
+    color: $link-color;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
