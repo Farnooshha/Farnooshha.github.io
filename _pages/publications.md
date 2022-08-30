@@ -25,7 +25,7 @@ Conference on Information and Knowledge Management, CIKM 2022.
 **<span style="color:#0059b3;">A. Behrouz\*</span>**, F. Hashemi\*, L. V.S. Lakshmanan.  
 preprint arXiv:2205.00742 (Under review at VLDB 2023).  
 
-[3] **FirmCore Decomposition of Multilayer Networks**.  
+[3] **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf) [[Code]](https://github.com/joint-em/FirmCore)  
 F. Hashemi*, **<span style="color:#0059b3;">A. Behrouz\*</span>**, L. V.S. Lakshmanan.  
 The ACM Web Conference, WWW 2022.  
 
