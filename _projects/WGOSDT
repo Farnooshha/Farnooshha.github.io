@@ -1,0 +1,11 @@
+---
+title: "Optimization of Weighted Sparse Decision Trees"
+collection: projects
+permalink: /projects/WGOSDT
+venue: ""
+location: "University of British Columbia"
+---
+
+
+
+In this project, we propose three efficient and effective algorithms to find optimal weighted sparse decision trees, with application to decision-making problems and causal inference.
