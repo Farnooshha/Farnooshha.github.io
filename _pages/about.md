@@ -23,7 +23,7 @@ I am an M.Sc. student in computer science at the University of British Columbia,
  <body>
  <html>
 
-<div class="text">
+<div>
 <pre>
 
 Aug 2021 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "<span style="color:#0059b3;">CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network</span>" is accepted to CIKM 2022.  
