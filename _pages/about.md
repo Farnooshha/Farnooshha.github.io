@@ -41,17 +41,17 @@ I am an M.Sc. student in computer science at the University of British Columbia,
 <thead>
   <tr>
     <th class="tg-wk8r">Aug 2021</th>
-    <th class="tg-oe15">Our paper "CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network" is accepted to CIKM 2022</th>
+    <th class="tg-oe15">Our paper <span style="color:#0059b3;">"CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network"</span> is accepted to CIKM 2022</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-wk8r">Jan 2021</td>
-    <td class="tg-oe15">Our paper "FirmCore Decomposition of Multilayer Networks" is accepted to The ACM Web Conference (WWW) 2022.</td>
+    <td class="tg-oe15">Our paper <span style="color:#0059b3;">"FirmCore Decomposition of Multilayer Networks"</span> is accepted to The ACM Web Conference (WWW) 2022.</td>
   </tr>
   <tr>
     <td class="tg-wk8r">Sep 2020</td>
-    <td class="tg-oe15">I Joined Systopia Lab at UBC as an MSc student.</td>
+    <td class="tg-oe15">I Joined <a href="https://systopia.cs.ubc.ca/">Systopia Lab</a> at UBC as an MSc student.</td>
   </tr>
 </tbody>
 </table>
