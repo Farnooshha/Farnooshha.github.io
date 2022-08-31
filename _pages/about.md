@@ -47,7 +47,7 @@ I am an M.Sc. student in computer science at the University of British Columbia,
 <tbody>
   <tr>
     <td class="tg-wk8r">Jan 2021</td>
-    <td class="tg-oe15">Our paper <span style="color:#0059b3;">"FirmCore Decomposition of Multilayer Networks"</span> is accepted to The ACM Web Conference (WWW) 2022.</td>
+    <td class="tg-oe15">Our paper <span style="color:#0059b3;">"FirmCore Decomposition of Multilayer Networks"</span> is accepted to The ACM Web Conference (WWW) 2022. (acceptance rate 17.7%)</td>
   </tr>
   <tr>
     <td class="tg-wk8r">Sep 2020</td>
