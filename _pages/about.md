@@ -24,12 +24,14 @@ I am an M.Sc. student in computer science at the University of British Columbia,
  <html>
 
 
-<pre>
-Aug 2021 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "<span style="color:#0059b3;">CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network</span>" is accepted to CIKM 2022.  
+<p>
+Aug 2021 &nbsp;&nbsp;&nbsp;&nbsp; Our paper "<span style="color:#0059b3;">CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network</span>" is  
+  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; accepted to CIKM 2022.  
      
 Jan 2021  &nbsp;&nbsp;&nbsp;&nbsp;  Our paper "<span style="color:#0059b3;">FirmCore Decomposition of Multilayer Networks</span>" is accepted to The ACM Web Conference (WWW) 2022.  
      
 Sep 2020 &nbsp;&nbsp;&nbsp;&nbsp;  I Joined <a href="https://systopia.cs.ubc.ca/">Systopia Lab</a> at UBC as an MSc student.  
  
- </pre>
+ </p>
 
