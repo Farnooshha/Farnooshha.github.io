@@ -6,9 +6,11 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
+#   - title: "Teaching"
+#     url: /teaching/    
+  - title: "Datasets"
+  - url: /datasets/
+  
   - title: "CV"
     url: https://drive.google.com/file/d/15enlFs66eKlhDNSkdHLo31wF8Bx-qhDs/view?usp=sharing
     
