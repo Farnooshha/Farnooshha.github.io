@@ -1,11 +1,11 @@
 locale                   : "en-US"
-title                    : "Ali Behrouz"
+title                    : "Farnoosh Hashemi"
 title_separator          : "-"
-name                     : &name "Ali Behrouz"
+name                     : &name "Farnoosh Hashemi"
 description              : &description "???"
-url                      : https://abehrouz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://farnooshha.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :
-repository               : "abehrouz/abehrouz.github.io"
+repository               : "farnooshha/farnooshha.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,8 +78,8 @@ author:
   location         : "Vancouver, BC, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=UbwVuqIAAAAJ&hl=en"
-  email            : "alibez@cs.ubc.ca"
+  googlescholar    : "https://scholar.google.com/citations?user=vLhM3V0AAAAJ&hl=en"
+  email            : "farsh@cs.ubc.ca"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -92,16 +92,16 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         :"https://www.linkedin.com/in/farnoosh-hashemi-a48328123"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "Behrouz_Ali"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
