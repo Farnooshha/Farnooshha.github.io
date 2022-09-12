@@ -9,12 +9,11 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an M.Sc. student in computer science at the University of British Columbia, and I am fortunate to be supervised by <a href="https://www.seltzer.com/margo/">Prof. Margo Seltzer</a>. Previously, I completed my B.Sc. at Sharif University of Technology, where I majored in Computer Engineering and minored in Mathematics. My research interests generally lie in the areas of network science, graph representation learning, and computational social science.  
+I am an M.Sc. student in the Data Mining  Lab in the Department of Computer Science at the University of British Columbia (UBC), supervised by <a href="https://www.cs.ubc.ca/~laks/">Prof. Laks Lakshmananl</a>.
+Previously, I received a B.Sc Sharif University of Technology, majoring in Computer Engineering and minoring in Mathematics. My research interests are computational social science, data science, and social network analysis.     
 </p>
   
-    
-  
-  
+
   
 # News
 <html>
