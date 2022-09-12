@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 <p align="justify">
-I am an M.Sc. student in the Data Mining  Lab in the Department of Computer Science at the University of British Columbia (UBC), supervised by <a href="https://www.cs.ubc.ca/~laks/">Prof. Laks V.S. Lakshmanan</a>.
-Previously, I received a B.Sc Sharif University of Technology, majoring in Computer Engineering and minoring in Mathematics. My research interests are computational social science, data science, and social network analysis.     
+I am an M.Sc. student in the Data Mining Lab in the Department of Computer Science at the University of British Columbia (UBC), supervised by <a href="https://www.cs.ubc.ca/~laks/">Prof. Laks V.S. Lakshmanan</a>.
+Previously, I received a B.Sc at Sharif University of Technology, majoring in Computer Engineering and minoring in Mathematics. My research interests are computational social science, data science, and social network analysis.     
 </p>
   
 
