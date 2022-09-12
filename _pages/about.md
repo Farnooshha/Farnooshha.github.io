@@ -48,9 +48,5 @@ Previously, I received a B.Sc at Sharif University of Technology, majoring in Co
     <td class="tg-wk8r">Jan 2021</td>
     <td class="tg-oe15">Our paper <span style="color:#0059b3;">"FirmCore Decomposition of Multilayer Networks"</span> is accepted to The ACM Web Conference (WWW) 2022. (acceptance rate 17.7%)</td>
   </tr>
-  <tr>
-    <td class="tg-wk8r">Sep 2020</td>
-    <td class="tg-oe15">I Joined <a href="https://systopia.cs.ubc.ca/">Systopia Lab</a> at UBC as an MSc student.</td>
-  </tr>
 </tbody>
 </table>
