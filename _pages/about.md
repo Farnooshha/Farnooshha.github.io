@@ -20,7 +20,7 @@ Previously, I received my B.Sc. in Computer Engineering with a minor in Mathemat
 
 \* Equal contribution
 
-* **FirmTruss Community Search in Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2205.00742.pdf)
+* **FirmTruss Community Search in Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2205.00742.pdf) <br /> 
 A. Behrouz\*, F. Hashemi\*, L. V.S. Lakshmanan.  
 International Conference on Very Large Databases, VLDB 2023.  
 
@@ -29,11 +29,11 @@ International Conference on Very Large Databases, VLDB 2023.
 A. Behrouz\*, F. Hashemi\*.  
 Conference on Information and Knowledge Management, CIKM 2022.  
 
-* **Misinformation mitigation under differential propagation rates and temporal penalties**. [[Paper]](https://arxiv.org/pdf/2206.11419.pdf)
+* **Misinformation mitigation under differential propagation rates and temporal penalties**. [[Paper]](https://arxiv.org/pdf/2206.11419.pdf) <br /> 
 M. Simpson, F. Hashemi, L. V.S. Lakshmanan.  
 International Conference on Very Large Databases, VLDB 2022.
 
-* **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf)  
+* **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf)  <br /> 
 F. Hashemi*, A. Behrouz\*, L. V.S. Lakshmanan.  
 The ACM Web Conference, WWW 2022.  
 
