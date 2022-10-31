@@ -16,32 +16,35 @@ Previously, I received my B.Sc. in Computer Engineering with a minor in Mathemat
   
 
   
-#Publications
+# Publications
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-wk8r{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 748px">
-<colgroup>
-<col style="width: 172px">
-<col style="width: 576px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-wk8r">Aug 2021</th>
-    <th class="tg-oe15">Our paper <span style="color:#0059b3;">"CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Network"</span> is accepted to CIKM 2022.</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-wk8r">Jan 2021</td>
-    <td class="tg-oe15">Our paper <span style="color:#0059b3;">"FirmCore Decomposition of Multilayer Networks"</span> is accepted to The ACM Web Conference (WWW) 2022. (acceptance rate 17.7%)</td>
-  </tr>
-</tbody>
-</table>
+\* Equal contribution
+
+# 2023
+[7] **FirmTruss Community Search in Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2205.00742.pdf) [[Code]](https://github.com/joint-em/FTCS)  
+**<span style="color:#0059b3;">A. Behrouz\*</span>**, F. Hashemi\*, L. V.S. Lakshmanan.  
+International Conference on Very Large Databases, VLDB 2023.  
+
+# 2022
+[6] **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**.  
+**<span style="color:#0059b3;">A. Behrouz</span>**, M. Seltzer.  
+NeurIPS 2022 Temporal Graph Learning Workshop.  
+
+[5] **Fast Optimization of Weighted Sparse Decision Trees for use in Optimal Treatment Regimes and Optimal Policy Design**.  [[Paper]](https://arxiv.org/pdf/2210.06825.pdf)  
+**<span style="color:#0059b3;">A. Behrouz</span>**, M. L\'ecuyer, C. Rudin, M. Seltzer.  
+Advances in Interpretable Machine Learning Workshop in CIKM 2022.  
+
+[4] **CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Networks**. [[Paper]](https://arxiv.org/pdf/2210.08811.pdf)  
+**<span style="color:#0059b3;">A. Behrouz\*</span>**, F. Hashemi\*.  
+Conference on Information and Knowledge Management, CIKM 2022.  
+
+
+[3] **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf) [[Code]](https://github.com/joint-em/FirmCore)  
+F. Hashemi*, **<span style="color:#0059b3;">A. Behrouz\*</span>**, L. V.S. Lakshmanan.  
+The ACM Web Conference, WWW 2022.  
+
+
+# 2020
+[2] **Green Space and Happiness of Developed Countries**. [[Paper]](https://www.researchgate.net/profile/Donghee-Wohn/publication/340812176_Green_Space_and_Happiness_of_Developed_Countries/links/5ef9754945851550507b0766/Green-Space-and-Happiness-of-Developed-Countries.pdf)  
+F Hashemi, **<span style="color:#0059b3;">A. Behrouz</span>**, J. Yang, D.Y. Wohn, M. Cha.  
+IEEE International Conference on Big Data and Smart Computing 2020. 
