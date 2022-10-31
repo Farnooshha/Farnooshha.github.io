@@ -24,20 +24,20 @@ Previously, I received my B.Sc. in Computer Engineering with a minor in Mathemat
 **<span style="color:#0059b3;">A. Behrouz\*</span>**, F. Hashemi\*, L. V.S. Lakshmanan.  
 International Conference on Very Large Databases, VLDB 2023.  
 
-[6] **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**.  
+
+* **CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Networks**. [[Paper]](https://arxiv.org/pdf/2210.08811.pdf)  
+A. Behrouz\*, F. Hashemi\*.  
+Conference on Information and Knowledge Management, CIKM 2022.  
+ر
+
+* **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**.  
 **<span style="color:#0059b3;">A. Behrouz</span>**, M. Seltzer.  
 NeurIPS 2022 Temporal Graph Learning Workshop.  
 
-
-[4] **CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Networks**. [[Paper]](https://arxiv.org/pdf/2210.08811.pdf)  
-**<span style="color:#0059b3;">A. Behrouz\*</span>**, F. Hashemi\*.  
-Conference on Information and Knowledge Management, CIKM 2022.  
-
-
-[3] **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf) [[Code]](https://github.com/joint-em/FirmCore)  
+* **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf) [[Code]](https://github.com/joint-em/FirmCore)  
 F. Hashemi*, **<span style="color:#0059b3;">A. Behrouz\*</span>**, L. V.S. Lakshmanan.  
 The ACM Web Conference, WWW 2022.  
 
-[2] **Green Space and Happiness of Developed Countries**. [[Paper]](https://www.researchgate.net/profile/Donghee-Wohn/publication/340812176_Green_Space_and_Happiness_of_Developed_Countries/links/5ef9754945851550507b0766/Green-Space-and-Happiness-of-Developed-Countries.pdf)  
+* **Green Space and Happiness of Developed Countries**. [[Paper]](https://www.researchgate.net/profile/Donghee-Wohn/publication/340812176_Green_Space_and_Happiness_of_Developed_Countries/links/5ef9754945851550507b0766/Green-Space-and-Happiness-of-Developed-Countries.pdf)  
 F Hashemi, **<span style="color:#0059b3;">A. Behrouz</span>**, J. Yang, D.Y. Wohn, M. Cha.  
 IEEE International Conference on Big Data and Smart Computing 2020. 
