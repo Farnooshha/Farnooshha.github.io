@@ -20,7 +20,7 @@ Previously, I received my B.Sc. in Computer Engineering with a minor in Mathemat
 
 \* Equal contribution
 
-* **FirmTruss Community Search in Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2205.00742.pdf) [[Code]](https://github.com/joint-em/FTCS)  
+* **FirmTruss Community Search in Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2205.00742.pdf)
 **<span style="color:#0059b3;">A. Behrouz\*</span>**, F. Hashemi\*, L. V.S. Lakshmanan.  
 International Conference on Very Large Databases, VLDB 2023.  
 
@@ -30,11 +30,11 @@ A. Behrouz\*, F. Hashemi\*.
 Conference on Information and Knowledge Management, CIKM 2022.  
 ر
 
-* **Anomaly Detection in Multiplex Dynamic Networks: from Blockchain Security to Brain Disease Prediction**.  
-**<span style="color:#0059b3;">A. Behrouz</span>**, M. Seltzer.  
-NeurIPS 2022 Temporal Graph Learning Workshop.  
+* **Misinformation mitigation under differential propagation rates and temporal penalties**.  [[Paper]](https://arxiv.org/pdf/2206.11419.pdf)
+M. Simpson, F. Hashemi, L. V.S. Lakshmanan.  
+International Conference on Very Large Databases, VLDB 2022.
 
-* **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf) [[Code]](https://github.com/joint-em/FirmCore)  
+* **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf)  
 F. Hashemi*, **<span style="color:#0059b3;">A. Behrouz\*</span>**, L. V.S. Lakshmanan.  
 The ACM Web Conference, WWW 2022.  
 
