@@ -16,13 +16,7 @@ Previously, I received my B.Sc. in Computer Engineering with a minor in Mathemat
   
 
   
-# News
-<html>
-<body>
- <hr>
- <body>
- <html>
-
+#Publications
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
