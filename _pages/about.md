@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+# About  
 <p align="justify">
 I am an M.Sc. student in the Data Mining Lab in the Department of Computer Science at the University of British Columbia (UBC), supervised by <a href="https://www.cs.ubc.ca/~laks/">Prof. Laks V.S. Lakshmanan</a>.
 Previously, I received my B.Sc. in Computer Engineering with a minor in Mathematics from  Sharif University of Technology.
