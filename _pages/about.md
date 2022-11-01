@@ -26,7 +26,7 @@ International Conference on Very Large Databases, VLDB 2023.
 
 
 * **CS-MLGCN: Multiplex Graph Convolutional Neural Network for Community Search in Multiplex Networks**. [[Paper]](https://arxiv.org/pdf/2210.08811.pdf)  
-A. Behrouz\*, **<span>F. Hashemi\* <span>**.  
+A. Behrouz\*, **</span>F. Hashemi\* </span>**.  
 Conference on Information and Knowledge Management, CIKM 2022. **<span> \[Best Paper Honorable Mention Award\]  <span>**
 
 * **FirmCore Decomposition of Multilayer Networks**. [[Paper]](https://arxiv.org/pdf/2208.11200.pdf)  <br /> 
