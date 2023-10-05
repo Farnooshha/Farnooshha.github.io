@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-# About  
+# About Me
 <p align="justify">
-I am an M.Sc. student in the Data Mining Lab in the Department of Computer Science at the University of British Columbia (UBC), supervised by <a href="https://www.cs.ubc.ca/~laks/">Prof. Laks V.S. Lakshmanan</a>.
-Previously, I received my B.Sc. in Computer Engineering with a minor in Mathematics from  Sharif University of Technology.
- My research interests are computational social science, social network analysis, and data science.     
+Hello! I am a first-year Ph.D. student in the Information Science department at Cornell University, supervised by <a href="https://sites.google.com/site/michaelmacy14/welcome-to-michael-macys-website">Prof. Michael Macy</a>. Previously, I completed my M.Sc. in Computer Science at the University of British Columbia (UBC), under the supervision of Professor Laks V.S. Lakshmanan. Before that, I got my B.Sc. in Computer Engineering with a minor in Mathematics from Sharif University of Technology. My research interests include Social Network Analysis, Misinformation, and Computational Social Science.     
 </p>
   
 
