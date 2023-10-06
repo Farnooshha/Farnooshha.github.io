@@ -8,8 +8,8 @@ main:
 
 #   - title: "Teaching"
 #     url: /teaching/    
-#  - title: "Datasets"
-# - url: /datasets/
+   - title: "Publications"
+    url: /publications/
   
   - title: "CV"
     url: "https://farnooshha.github.io/files/Farnoosh_CV (3).pdf"
