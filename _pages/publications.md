@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
   You can also find my papers on <u><a href="https://scholar.google.com/citations?user=UbwVuqIAAAAJ&hl=en">my Google Scholar profile</a>.</u>
 
-
-{% include base_path %}
 
 \* Equal contribution
 
