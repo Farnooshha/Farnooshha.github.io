@@ -13,7 +13,7 @@ author_profile: true
 \* Equal contribution
 
 * **CAT-Walk: Inductive Hypergraph Learning via Set Walks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
-A. Behrouz\*, **<span style>F. Hashemi\*</span>**, M. S. Sadeghian\*,  M. Seltzer.  
+A. Behrouz\*, **<span style>F. Hashemi\*</span>**, S. Sadeghian\*,  M. Seltzer.  
 Neural Information Processing Systems, NeurIPS 2023.
 
 * **Generalized Densest Subgraph in Multiplex Networks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
