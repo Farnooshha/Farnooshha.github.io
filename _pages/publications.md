@@ -13,7 +13,7 @@ author_profile: true
 \* Equal contribution
 
 * **CAT-Walk: Inductive Hypergraph Learning via Set Walks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
-A. Behrouz\*, **<span style>F. Hashemi\*</span>**, S. Sadeghian\*,  M. Seltzer.  
+A. Behrouz, **<span style>F. Hashemi\*</span>**, S. Sadeghian\*,  M. Seltzer.  
 Neural Information Processing Systems, NeurIPS 2023.
 
 * **Generalized Densest Subgraph in Multiplex Networks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
@@ -21,10 +21,6 @@ A. Behrouz\*, **<span style>F. Hashemi\*</span>**.
 Conference on Complex Networks & Their Applications, CNA 2023. [Oral]
 
 * **CS-TGN: Community Search via Temporal Graph Neural Networks**. [[Paper]](https://arxiv.org/pdf/2303.08964.pdf) <br /> 
-**<span style>F. Hashemi\*</span>**, A. Behrouz\*, M. Rezaei Hajidehi\*.  
-Companion Proceedings of the Web Conference, WWW 2023. 
-
-* **CS-TGN: Community Search via Temporal Graph Neural Networks**. [[Paper]](https://arxiv.org/pdf/2205.00742.pdf) <br /> 
 **<span style>F. Hashemi\*</span>**, A. Behrouz\*, M. Rezaei Hajidehi\*.  
 Companion Proceedings of the Web Conference, WWW 2023. 
 
