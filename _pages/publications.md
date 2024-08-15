@@ -20,7 +20,7 @@ KDD 2024.
 KDD 2024.
 
 * **Brain-mamba: Encoding brain activity via selective state space models**. [[Paper]](https://raw.githubusercontent.com/mlresearch/v248/main/assets/behrouz24a/behrouz24a.pdf) <br /> A. Behrouz and **<span style>F. Hashemi</span>**.  
-Conference on Health, Inference, and Learning (CHIL) 2024. <font color="#802144"> \[Best Paper Award\] </font>
+Conference on Health, Inference, and Learning (CHIL) 2024. <font color="#9e2853"> Best Paper Award </font>
 
 * **CAT-Walk: Inductive Hypergraph Learning via Set Walks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
 A. Behrouz, **<span style>F. Hashemi\*</span>**, S. Sadeghian\*,  M. Seltzer.  
