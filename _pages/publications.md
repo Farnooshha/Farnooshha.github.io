@@ -8,9 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-# Publications
+# Selected Publications
 
 \* Equal contribution
+
+* **A Unified Core Structure in Multiplex Networks: From Finding the Densest Subgraph to Modeling User Engagement**. [[Paper]](https://arxiv.org/pdf/2406.13734) <br /> **<span style>F. Hashemi\*</span>**, A. Behrouz.  
+KDD 2024.
+
 
 * **CAT-Walk: Inductive Hypergraph Learning via Set Walks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
 A. Behrouz, **<span style>F. Hashemi\*</span>**, S. Sadeghian\*,  M. Seltzer.  
