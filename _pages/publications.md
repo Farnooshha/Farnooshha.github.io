@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+For the full list of my publications, [click here](https://scholar.google.com/citations?user=vLhM3V0AAAAJ&hl=en).
 
 # Selected Publications
 
@@ -17,6 +18,9 @@ KDD 2024.
 
 * **A Unified Core Structure in Multiplex Networks: From Finding the Densest Subgraph to Modeling User Engagement**. [[Paper]](https://arxiv.org/pdf/2406.13734) <br /> **<span style>F. Hashemi</span>** and A. Behrouz.  
 KDD 2024.
+
+* **Brain-mamba: Encoding brain activity via selective state space models**. [[Paper]](https://raw.githubusercontent.com/mlresearch/v248/main/assets/behrouz24a/behrouz24a.pdf) <br /> A. Behrouz and **<span style>F. Hashemi</span>**.  
+Conference on Health, Inference, and Learning (CHIL) 2024.
 
 * **CAT-Walk: Inductive Hypergraph Learning via Set Walks**. [[Paper]](https://browse.arxiv.org/pdf/2306.11147.pdf) <br /> 
 A. Behrouz, **<span style>F. Hashemi\*</span>**, S. Sadeghian\*,  M. Seltzer.  
