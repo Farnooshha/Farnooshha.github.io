@@ -14,6 +14,7 @@ Hello! I am a second-year Ph.D. student in the Information Science department at
 </p>
   
 # Research Interests
-* Social Network Analysis
 * Computational Social Science
-* Misinformation
+* Social Network Analysis
+* Large Language Models
+
