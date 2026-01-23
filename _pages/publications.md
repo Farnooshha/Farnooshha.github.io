@@ -13,6 +13,16 @@ For the full list of my publications, [click here](https://scholar.google.com/ci
 
 \* Equal contribution
 
+
+* **An Empirical Study of Collective Behaviors and Social Dynamics in Large Language Model Agents**. [[Paper]]() <br />  **<span style>F. Hashemi</span>** and M. Macy.  
+EACL 2026.
+
+* **A Generalizable Rhetorical Strategy Annotation Model Using LLM-based Debate Simulation and Labelling**. [[Paper]](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1117.pdf)  <br /> S. Ji\*,  **<span style>F. Hashemi\*</span>** , J. Chen , J. Pan, W. Ma, H. Zhang, S. Pan, M. Cheng, S. Mohole, S. Hassanpour, S. Vosoughi, M. Macy.  
+EMNLP 2025 Findings.
+
+* **KRAFT: A Knowledge Graph-Based Framework for Automated Map Conflation**. [[Paper]](https://arxiv.org/pdf/2509.04684) <br />  **<span style>F. Hashemi</span>** and L. V.S. Lakshmanan.  
+CIKM 2025.
+
 * **Graph mamba: Towards learning on graphs with state space models**. [[Paper]](https://arxiv.org/pdf/2402.08678) <br /> A. Behrouz\* and **<span style>F. Hashemi\*</span>**.  
 KDD 2024.
 
