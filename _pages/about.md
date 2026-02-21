@@ -14,7 +14,8 @@ Hello! I am a third-year Ph.D. student in the Information Science department at 
 </p>
   
 # Research Interests
-* Computational Social Science
 * Large Language Models
-*  Social Network Analysis
+* Natural Language Processing
+* Computational Social Science
+* Social Network Analysis
 
